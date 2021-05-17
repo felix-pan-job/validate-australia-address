@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+.form-horizontal {
+  border: 1px solid;
+  background-color:skyblue;
+  margin: 2rem;
+  min-height: 450px;
+}
+
+.form-group {
+  margin: 0.8rem;
+}
+
+.btn-primary {
+  background-color: #6648b1;
+  border: 1px solid #6648b1;
+  margin-top: 2rem;
+}
+.btn-primary:hover {
+  background-color: #563d7c;
+  border: 1px solid #563d7c;
+}
+
+.form-title {
+  margin: 1rem;
+  font-size: 110%;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 10px #000;
+}
+
+
+.result .errMsg {
+  text-align: left;
+  font-size: 2rem !important;
+}
+
+.errMsg {
+  color:red;
+}
